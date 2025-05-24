@@ -175,20 +175,6 @@ $tablet-width: 768px;
 $desktop-width: 1024px;
 ```
 
-## 📱 Screenshots
-
-### Homepage
-![Homepage](screenshots/homepage.png)
-
-### Movie Details
-![Movie Details](screenshots/movie-details.png)
-
-### Search Results
-![Search Results](screenshots/search-results.png)
-
-### Mobile View
-![Mobile View](screenshots/mobile-view.png)
-
 ## 🤝 Contributing
 
 We welcome contributions! Please follow these steps:
@@ -254,7 +240,7 @@ If you have any questions or need help with setup, please:
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/deeptimaan-k)**
+**Made with ❤️ by [Deeptimaan Krishna Jadaun](https://github.com/deeptimaan-k)**
 
 ⭐ Star this repository if you found it helpful!
 ```
